@@ -9,6 +9,7 @@ This supposed to be a recognizer class. To give it a database that it bases it's
 |
 |__recognizer.py     
 ```
-
+Here is a basic example of this running with me and my wife.
+![alt text](https://github.com/Prograndma/basic_facial_recognition/blob/master/recognized.jpg)
 
 * Thomas Cole 
